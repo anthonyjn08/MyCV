@@ -42,9 +42,7 @@ This website serves as both a professional introduction and a visual summary of 
 The CV website was developed using **Bootstrap** and **Google Fonts**, then version-controlled via **GitHub**.  
 It was deployed using **GitHub Pages**.
 
-[**Live Site (coming soon)**](#)
-
----
+## **[Deployed Site](https://anthonyjn08.github.io/MyCV/)**
 
 ## Notes
 
